@@ -1,0 +1,157 @@
+/* Fonts references
+font-family: 'Bebas Neue', cursive; (regular)
+font-family: 'Old Standard TT', serif; (regular + bold)
+
+Colors references:
+rgb(248, 230, 182)
+rgb(215,127, 64)
+rgb(125, 36, 27)
+rgb(202, 67, 109)
+*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: rgb(248, 230, 182);
+  font-family: 'Old Standard TT Regular', serif;
+}
+
+/* header */
+
+.amber-opening {
+  color: #000;
+  font-family: 'Old Standard TT', serif;
+  text-decoration: none;
+  position: sticky;
+}
+
+.index-opening {
+  background-color: #fff;
+}
+
+.fifties-opening {
+  color: #fff;
+  background-color: rgb(215,127, 64);
+}
+
+.sixties-opening {
+  color: #fff;
+  background-color: rgb(202, 67, 109);
+}
+
+.seventies-opening {
+  color: #fff;
+  background-color: rgb(125, 36, 27);
+}
+
+.amber-logo {
+  display: block;
+  width: 40%;
+  position: relative;
+  top: 60px;
+  left: 300px;
+  bottom: 60px;
+}
+
+/* nav */
+.index-opening nav {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  margin: 140px 0 0;
+  border-top: #000 solid 1px;
+}
+
+.opening-button {
+  padding: 10px 0;
+}
+
+.opening-button a {
+  color: #000;
+  text-decoration: none;
+}
+
+.index-opening .opening-button {
+  font-size: 60px;
+  flex-grow: 3;
+  text-align: center;
+}
+
+/* opening fifties */
+.fifties-opening nav {
+  background-color: rgb(215,127, 64);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  margin: 140px 0 0;
+  border-top: #fff solid 1px;
+}
+
+.fifties-opening .opening-button a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.fifties-opening .opening-button {
+  font-size: 60px;
+  flex-grow: 3;
+  text-align: center;
+}
+
+.top-pattern {
+  width: 100%;
+}
+
+/* opening sixties */
+.sixties-opening nav {
+  background-color: rgb(202, 67, 109);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  margin: 140px 0 0;
+  border-top: #fff solid 1px;
+}
+
+.sixties-opening .opening-button a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.sixties-opening .opening-button {
+  font-size: 60px;
+  flex-grow: 3;
+  text-align: center;
+}
+
+/* opening seventies */
+.seventies-opening nav {
+  background-color: rgb(125, 36, 27);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  margin: 140px 0 0;
+  border-top: #fff solid 1px;
+}
+
+.seventies-opening .opening-button a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.seventies-opening .opening-button {
+  font-size: 60px;
+  flex-grow: 3;
+  text-align: center;
+}
+
