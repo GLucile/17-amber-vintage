@@ -201,6 +201,19 @@ h3 {
   margin: 90px 350px 120px;
 }
 
+/*50s box index*/
+.fifth-pilot {
+  width: 80%;
+  margin: 0 0 0 210px;
+  z-index: -1;
+  position: relative;
+  bottom: -70px;
+}
+
+.fifth-box {
+  background-color: rgb(215,127, 64);
+}
+
 /* opening fifties */
 .fifties-opening nav {
   background-color: rgb(215,127, 64);
