@@ -214,6 +214,20 @@ h3 {
   background-color: rgb(215,127, 64);
 }
 
+/*60s box index*/
+.sixth-pilot {
+  width: 90%;
+  margin: 0 0 0 60px;
+  z-index: -1;
+  position: relative;
+  bottom: -110px;
+}
+
+.sixth-box {
+  background-color: rgb(202, 67, 109);
+  margin-bottom: 60px;
+}
+
 /* opening fifties */
 .fifties-opening nav {
   background-color: rgb(215,127, 64);
