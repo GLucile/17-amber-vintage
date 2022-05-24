@@ -143,6 +143,64 @@ body {
   width: 100%;
 }
 
+/* box-selction index */
+.products-chapter {
+  font-size: 60px;
+  margin: 90px 180px;
+}
+
+.box-selection {
+  text-align: center;
+  color: #fff;
+  z-index: 1;
+}
+
+.pattern-photo {
+  width: 60%;
+}
+
+.earbuds {
+  width: 80%;
+  border-radius: 50px;
+  margin: 140px 80px 40px;
+  text-align: center;
+}
+
+figure {
+  margin: 0;
+}
+
+h3 {
+  font-family: 'Old Standard TT Bold', serif;
+  font-size: 110px;
+  margin: 50px 0;
+}
+
+.one-liner {
+  font-family: 'Old Standard TT Regular', serif;
+  font-size: 30px;
+  margin: 160px 220px;
+  line-height: 80px;
+}
+
+.item-shop {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.shop-path {
+  text-align: center;
+  color: #fff;
+  font-size: 100px;
+
+}
+
+.white-arrow {
+  width: 30%;
+  margin: 90px 350px 120px;
+}
+
 /* opening fifties */
 .fifties-opening nav {
   background-color: rgb(215,127, 64);
