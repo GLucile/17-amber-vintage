@@ -519,6 +519,10 @@ h4 {
   margin: 0 40px 200px;
 }
 
+.other-selct a {
+  text-decoration: none;
+}
+
 .other-selct img {
   border-radius: 50px;
   margin: 40px 60px;
