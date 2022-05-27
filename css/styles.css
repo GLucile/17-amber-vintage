@@ -501,10 +501,10 @@ h4 {
   font-family: 'Old Standard TT Bold', serif;
   color: #000;
   background-color: rgba(255, 255, 255, 0.5);
-  font-size: 35px;
+  font-size: 60px;
   padding: 30px;
   text-align: center;
-  margin: 0 130px 80px;
+  margin: 0 90px 80px;
 }
 
 .other-product-select {
@@ -545,8 +545,9 @@ h4 {
   background-color: rgba(255, 255, 255, 0.5);
   font-family: 'Old Standard TT Bold', serif;
   text-decoration: none;
-  padding: 60px 50px 40px;
-  margin: 40px 190px 120px;
+  font-size: 45px;
+  padding: 50px 40px 30px;
+  margin: 40px 150px 120px;
 }
 
 .bottom-pattern {
