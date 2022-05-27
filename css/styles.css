@@ -386,3 +386,167 @@ footer p {
   text-align: center;
 }
 
+/* pages products */
+/* in general */
+
+.decade-welcome {
+  font-family: 'Old Standard TT Bold', serif;
+  font-size: 60px;
+  text-align: center;
+  line-height: 120px;
+  padding: 90px 140px;
+}
+
+.page-earbuds {
+  width: 70%;
+  margin: 130px 150px;
+  border-radius: 80px;
+}
+
+.edition-title {
+  color: #fff;
+  padding: 30px 90px 60px;
+}
+
+.indication-product {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.price-title {
+  font-size: 100px;
+}
+
+.price {
+  font-size: 90px;
+}
+
+.add-button {
+  background-color: rgb(248, 230, 182);
+  color: #000;
+  text-align: center;
+  font-size: 60px;
+  border-radius: 20px;
+  padding: 30px 0;
+  margin: 40px 20px 50px;
+}
+
+.tomorrow-button {
+  color: #fff;
+  border: rgb(248, 230, 182) solid 5px;
+}
+
+.title-description {
+  color: #fff;
+  font-size: 30px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  padding: 40px 90px;
+  margin: 170px 470px 0 60px;
+}
+
+.infos-card {
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  font-size: 15px;
+  line-height: 90px;
+  padding: 30px 20px 50px;
+  margin: 0 60px 120px;
+}
+
+/* icons resume */
+
+.icons-resume {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0 60px 150px;
+}
+
+.icons-resume figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 70px 0;
+}
+
+.icons-resume figcaption {
+  font-size: 40px;
+  text-align: center;
+  margin: 40px 0 0;
+}
+
+.battery-icon {
+  margin-top: 100px;
+}
+
+.charging-basket figcaption {
+  margin-top: 100px;
+}
+
+.fill-illu {
+  width: 77%;
+}
+
+.border-illu {
+  width: 40%;
+}
+
+/* others products */
+h4 {
+  font-family: 'Old Standard TT Bold', serif;
+  color: #000;
+  background-color: rgba(255, 255, 255, 0.5);
+  font-size: 35px;
+  padding: 30px;
+  text-align: center;
+  margin: 0 130px 80px;
+}
+
+.other-product-select {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+}
+
+.other-selct {
+  border-radius: 20px;
+  margin: 0 40px 200px;
+}
+
+.other-selct img {
+  border-radius: 50px;
+  margin: 40px 60px;
+}
+
+.other-selct figcaption {
+  color: #fff;
+  font-family: 'Old Standard TT Bold', serif;
+  font-size: 60px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.other-product-select img {
+  width: 70%;
+}
+
+.top-access {
+  color: #000;
+  background-color: rgba(255, 255, 255, 0.5);
+  font-family: 'Old Standard TT Bold', serif;
+  text-decoration: none;
+  padding: 30px;
+  margin: 40px 240px 120px;
+}
+
+.bottom-pattern {
+  margin: 120px 0 0;
+}
+
