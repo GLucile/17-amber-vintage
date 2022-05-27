@@ -550,3 +550,24 @@ h4 {
   margin: 120px 0 0;
 }
 
+/* 50's edition */
+.fifties-edition {
+  background-color: rgb(215,127, 64);
+}
+
+.fifties-edition .tomorrow-button {
+  background-color: rgb(215,127, 64);
+}
+
+.fifties-edition .title-description {
+  background-color: rgb(215,127, 64);
+}
+
+.infos-fifties {
+  border: rgb(215,127, 64) solid 5px;
+}
+
+.other-50s-selct {
+  background-color: rgb(215,127, 64);
+}
+
