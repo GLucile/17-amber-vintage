@@ -1,6 +1,7 @@
 /* Fonts references
 font-family: 'Bebas Neue', cursive; (regular)
 font-family: 'Old Standard TT', serif; (regular + bold)
+font-familly: 'Playfair Display SC', serif;
 
 Colors references:
 rgb(248, 230, 182)
@@ -95,6 +96,7 @@ body {
 .collab-name, .products-chapter {
   background-color: rgba(255, 255, 255, 0.5);
   color: #000;
+  font-family: 'Playfair Display SC', serif;
   text-align: center;
   padding: 50px;
 }
@@ -498,7 +500,7 @@ footer p {
 
 /* others products */
 h4 {
-  font-family: 'Old Standard TT Bold', serif;
+  font-family: 'Playfair Display SC', serif;
   color: #000;
   background-color: rgba(255, 255, 255, 0.5);
   font-size: 60px;
@@ -543,7 +545,7 @@ h4 {
 .top-access {
   color: #000;
   background-color: rgba(255, 255, 255, 0.5);
-  font-family: 'Old Standard TT Bold', serif;
+  font-family: 'Playfair Display SC', serif;  
   text-decoration: none;
   font-size: 45px;
   padding: 50px 40px 30px;
