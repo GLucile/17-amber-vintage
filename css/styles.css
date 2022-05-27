@@ -571,3 +571,24 @@ h4 {
   background-color: rgb(215,127, 64);
 }
 
+/* 60's edition */
+.sixties-edition {
+  background-color: rgb(202, 67, 109);
+}
+
+.add-button .sixties-edition {
+  background-color: rgb(202, 67, 109);
+}
+
+.sixties-edition .tomorrow-button {
+  background-color: rgb(202, 67, 109);
+}
+
+.infos-sixties {
+  border: solid 5px rgb(202, 67, 109);
+}
+
+.other-60s-selct {
+  background-color: rgb(202, 67, 109);
+}
+
