@@ -25,7 +25,6 @@ body {
   color: #000;
   font-family: 'Old Standard TT', serif;
   text-decoration: none;
-  position: sticky;
 }
 
 .index-opening {
@@ -136,7 +135,6 @@ body {
 
 .earphones-roars {
   background-color: rgb(202, 67, 109);
-
 }
 
 .limited-edition {
@@ -391,7 +389,7 @@ footer p {
 
 .decade-welcome {
   font-family: 'Old Standard TT Bold', serif;
-  font-size: 60px;
+  font-size: 50px;
   text-align: center;
   line-height: 120px;
   padding: 90px 140px;
