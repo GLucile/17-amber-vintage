@@ -592,3 +592,23 @@ h4 {
   background-color: rgb(202, 67, 109);
 }
 
+/* 70's edition */
+.seventies-edition {
+  background-color: rgb(125, 36, 27);
+}
+
+.add-button .seventies-edition {
+  background-color: rgb(125, 36, 27);
+}
+
+.seventies-edition .tomorrow-button {
+  background-color: rgb(125, 36, 27);
+}
+
+.infos-seventies {
+  border: rgb(125, 36, 27) solid 5px;
+}
+
+.other-70s-selct {
+  background-color: rgb(125, 36, 27);
+}
